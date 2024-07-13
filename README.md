@@ -1,5 +1,5 @@
 # valofix
-Quick fix for riot games login.
+Quick fix for riot games.
 
 
 ONLY USE IF YOU HAVE VALORANT INSTALLED AND YOU'RE RIOT LOGIN SAVED OR THE ACTIONS WILL NOT TAKE AFFECT
